@@ -27,6 +27,9 @@ The button “Save” is used to save the product to the DB, and the button “C
 # TODO :
 
 -Save to DB / Backend
+
 -Checking user input on add Item.
+
 -Refactoring
+
 -Styling
