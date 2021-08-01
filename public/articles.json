@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Item_Name_1",
+		"image": "./logo192.png",
+		"price": "8",
+		"quantity": "1",
+		"colors": "white"
+	},
+	{
+		"name": "Item_Name_2",
+		"image": "./logo192.png",
+		"price": "5",
+		"quantity": "1789",
+		"colors": "blue"
+	},
+	{
+		"name": "Item_Name_2",
+		"image": "./logo192.png",
+		"price": "800",
+		"quantity": "591",
+		"colors": "red"
+	},
+	{
+		"name": "Item_Name_3",
+		"image": "./logo192.png",
+		"price": "0",
+		"quantity": "1789",
+		"colors": "white"
+	}
+]

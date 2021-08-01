@@ -1,0 +1,192 @@
+[
+	{
+		"_id": "60fdcd877d596a56504e9d6f",
+		"index": 0,
+		"guid": "e01011e3-a291-42a6-a2ed-ca98ab7dcc0f",
+		"name": "Nadinetech 111222",
+		"image": "./logo192.png",
+		"price": 254,
+		"quantity": 33,
+		"colors": "green"
+	},
+	{
+		"_id": "60fdcd87fae29624e440b9ef",
+		"index": 1,
+		"guid": "1de3ed19-70a9-488c-96c3-0c73fe4de39a",
+		"name": "Madelinetech 111222",
+		"image": "./logo192.png",
+		"price": 0,
+		"quantity": 14,
+		"colors": "white"
+	},
+	{
+		"_id": "60fdcd876b8aba4deb22a7e6",
+		"index": 2,
+		"guid": "6d653246-adb2-4a9a-9b7e-4d6585b8372f",
+		"name": "Elainetech 111222",
+		"image": "./logo192.png",
+		"price": 574,
+		"quantity": 40,
+		"colors": "yellow"
+	},
+	{
+		"_id": "60fdcd8756efa4498240c8d4",
+		"index": 3,
+		"guid": "3b39be77-8c10-4cbc-8262-2739d31714f4",
+		"name": "Heathtech 111222",
+		"image": "./logo192.png",
+		"price": 792,
+		"quantity": 31,
+		"colors": "white"
+	},
+	{
+		"_id": "60fdcd87f650cbd0db732206",
+		"index": 4,
+		"guid": "86199095-46ba-4dc7-965c-6d23db062978",
+		"name": "Maytech 111222",
+		"image": "./logo192.png",
+		"price": 641,
+		"quantity": 43,
+		"colors": "yellow"
+	},
+	{
+		"_id": "60fdcd877316829054d5822a",
+		"index": 5,
+		"guid": "43aa4745-7606-4309-99e3-46e71b97a6f8",
+		"name": "Margerytech 111222",
+		"image": "./logo192.png",
+		"price": 854,
+		"quantity": 40,
+		"colors": "blue"
+	},
+	{
+		"_id": "60fdcd875ba3f3efbcc977c3",
+		"index": 6,
+		"guid": "bbb62ae3-16bc-4f70-94ca-15a77b6ea02e",
+		"name": "Nielsentech 111222",
+		"image": "./logo192.png",
+		"price": 355,
+		"quantity": 16,
+		"colors": "yellow"
+	},
+	{
+		"_id": "60fdcd87cf9bfb72c71e6565",
+		"index": 7,
+		"guid": "1bdb16db-08b0-4fb6-966c-806f0a627815",
+		"name": "Fitzpatricktech 111222",
+		"image": "./logo192.png",
+		"price": 177,
+		"quantity": 28,
+		"colors": "blue"
+	},
+	{
+		"_id": "60fdcd874d30075db5ce660b",
+		"index": 8,
+		"guid": "4abaa48c-0e5e-47a2-b3f3-e3707190ab00",
+		"name": "Maratech 111222",
+		"image": "./logo192.png",
+		"price": 636,
+		"quantity": 26,
+		"colors": "black"
+	},
+	{
+		"_id": "60fdcd87d288928cc44a4ded",
+		"index": 9,
+		"guid": "020450a7-8979-44f7-8b63-a3374460d499",
+		"name": "Rogerstech 111222",
+		"image": "./logo192.png",
+		"price": 32,
+		"quantity": 9,
+		"colors": "white"
+	},
+	{
+		"_id": "60fdcd871c5d54a8fb26e0b4",
+		"index": 10,
+		"guid": "ca6778be-0a76-476e-bb50-ccb708f0a261",
+		"name": "Juliettech 111222",
+		"image": "./logo192.png",
+		"price": 629,
+		"quantity": 19,
+		"colors": "blue"
+	},
+	{
+		"_id": "60fdcd870ecb59dd99101355",
+		"index": 11,
+		"guid": "4ef6a839-363f-4b11-9cfc-099bed4f8558",
+		"name": "Benitatech 111222",
+		"image": "./logo192.png",
+		"price": 886,
+		"quantity": 31,
+		"colors": "green"
+	},
+	{
+		"_id": "60fdcd8760a827bc6688a2a9",
+		"index": 12,
+		"guid": "a08d1ad7-d8b5-42ee-8bd5-cc6a51029f11",
+		"name": "Vargastech 111222",
+		"image": "./logo192.png",
+		"price": 113,
+		"quantity": 2,
+		"colors": "blue"
+	},
+	{
+		"_id": "60fdcd87f73fb254181bb10a",
+		"index": 13,
+		"guid": "7578a9b2-dbb1-4112-9e2a-0d87f6130a30",
+		"name": "Joytech 111222",
+		"image": "./logo192.png",
+		"price": 203,
+		"quantity": 18,
+		"colors": "green"
+	},
+	{
+		"_id": "60fdcd8704477d9e16a5e597",
+		"index": 14,
+		"guid": "b70a62ad-c21c-4a97-a9b0-4b75436961a4",
+		"name": "Obrientech 111222",
+		"image": "./logo192.png",
+		"price": 65,
+		"quantity": 26,
+		"colors": "yellow"
+	},
+	{
+		"_id": "60fdcd870c4622c235075190",
+		"index": 15,
+		"guid": "b66cbba9-89e4-4124-9eb6-d19b417a12bd",
+		"name": "Katietech 111222",
+		"image": "./logo192.png",
+		"price": 367,
+		"quantity": 31,
+		"colors": "green"
+	},
+	{
+		"_id": "60fdcd87cda831fe7c57295e",
+		"index": 16,
+		"guid": "dbe493a3-c099-46da-b83f-7d4d1086c5b2",
+		"name": "Buckleytech 111222",
+		"image": "./logo192.png",
+		"price": 801,
+		"quantity": 47,
+		"colors": "white"
+	},
+	{
+		"_id": "60fdcd8744e870937ae3d0b9",
+		"index": 17,
+		"guid": "3bcf07e5-5584-4143-8383-d3d1c0db6544",
+		"name": "Bertatech 111222",
+		"image": "./logo192.png",
+		"price": 872,
+		"quantity": 36,
+		"colors": "yellow"
+	},
+	{
+		"_id": "60fdcd87100bf4bc7397f1f6",
+		"index": 18,
+		"guid": "854e8c6b-7de8-4572-b798-efade82e26ff",
+		"name": "Kristatech 111222",
+		"image": "./logo192.png",
+		"price": 545,
+		"quantity": 15,
+		"colors": "black"
+	}
+]

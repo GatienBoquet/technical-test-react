@@ -1,0 +1,117 @@
+.App {
+	text-align: center;
+}
+
+.App-logo {
+	height: 40vmin;
+	pointer-events: none;
+}
+
+.App-header {
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	padding: 10px;
+	background-color: #95a5a6;
+	min-height: 25vh;
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	justify-content: space-around;
+	font-size: calc(10px + 2vmin);
+	flex-wrap: wrap;
+	color: white;
+	border-bottom: black;
+	border-bottom-width: 1px;
+	border-radius: 15px;
+}
+
+.button-action {
+	border-radius: 15px;
+}
+
+.drop-div {
+	flex-grow: 1;
+}
+.Header-action {
+	display: flex;
+}
+
+.card-Style {
+	display: flex;
+	width: 250px;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-content: flex-end;
+	justify-content: space-between;
+	align-items: center;
+	margin: 10px;
+	border-width: 0.5px;
+	border-color: #bdc3c7;
+	border-radius: 15px;
+	border-style: solid;
+}
+
+.App-Content {
+	background-color: #586888;
+	border-radius: 15px;
+	min-height: 50vh;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	flex-wrap: wrap;
+	color: white;
+	flex-basis: 100%;
+}
+
+.table-style {
+	flex-basis: 100%;
+	flex-grow: 1;
+}
+
+.article-list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.App-link {
+	color: #61dafb;
+}
+
+.image-input {
+	width: 200px;
+	height: 200px;
+}
+.modal-container {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+}
+
+.card-image {
+	width: 200px;
+	height: 200px;
+}
+
+.card-style {
+	flex: 1;
+	flex-direction: row;
+}
+
+.drop-div {
+	background-color: #bdc3c7;
+	height: 150px;
+	width: auto;
+	margin-left: 10px;
+	border-radius: 15px;
+}
+
+.table-style {
+}
